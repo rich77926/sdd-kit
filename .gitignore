@@ -1,0 +1,5 @@
+# agent memory（local scope 不進版控）
+.claude/agent-memory-local/
+
+# 產生物
+frontend/src/api/generated/*.d.ts.map
